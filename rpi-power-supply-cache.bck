@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2515T-I/SO
+D Stand-Alone CAN Controller with SPI Interface, SOIC-18, Extended temperature range
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP RTC_(DS3231)
+D STEP_DOWN_CONVERTER_(MP2307)
+F http://www.mouser.com/ds/2/277/MP2307_r1.9-371737.pdf
+$ENDCMP
+#
+$CMP STEP_DOWN_CONVERTER_(MP2307)
+D STEP_DOWN_CONVERTER_(MP2307)
+F http://www.mouser.com/ds/2/277/MP2307_r1.9-371737.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+(module 2mm_X_3mm_WIRE_PAD (layer F.Cu) (tedit 5AD5DFFE)
+  (fp_text reference VBATT_1 (at 0.2 -3.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CONN_01X01 (at 0.6 3.8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 3 5) (layers F.Cu F.Paste F.Mask))
+)

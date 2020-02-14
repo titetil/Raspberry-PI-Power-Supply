@@ -1,0 +1,10 @@
+(module RPi_MOUNTING_HOLE (layer F.Cu) (tedit 5AD8DE55)
+  (fp_text reference REF** (at 0.4 4.4) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value RPi_MOUNTING_HOLE (at 0.4 -4.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask)
+    (solder_mask_margin 1.725) (clearance 1.725))
+)
